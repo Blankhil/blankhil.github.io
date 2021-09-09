@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Test commit
+Test commit #2
 
 ```markdown
 Syntax highlighted code block
